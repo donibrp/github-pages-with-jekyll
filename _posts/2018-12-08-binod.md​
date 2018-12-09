@@ -1,6 +1,10 @@
 ---
-title: My First Site
-date: 2018-12-08
+layout: post
+title:  "Welcome to Jekyll!"
 ---
 
-this ukhk kjhjk
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
